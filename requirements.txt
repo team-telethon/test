@@ -1,3 +1,10 @@
+py-tgcalls
+aiohttp
+asyncio
+python-arq
+youtube-search-python
+python-dotenv
+googletrans==4.0.0rc1
 telethon
 aiofiles
 aiohttp
